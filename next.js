@@ -1,3 +1,9 @@
 setInterval(() => {
-    console.log()
+    setTimeout(()=>{
+        setInterval(() => {
+            setInterval(() => {
+                ServiceWorkerRegistration
+            }, interval);
+        }, interval);
+    })
 }, interval);
