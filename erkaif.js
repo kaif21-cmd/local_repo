@@ -1,3 +1,3 @@
-setTimeout(()=>{
-    console.log(`hello brother`)
-},1000)
+console.log(a+b)
+a=10
+b=20
